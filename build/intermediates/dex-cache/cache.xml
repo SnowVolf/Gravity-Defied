@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\ProjectX\serious\gravitydefied2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a0f3597d0579b93a8515d5e2f90177c0e862423e">
+        <dex dex="C:\ProjectX\serious\gravitydefied2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0692e3a3e8d35061bae5897e98213df8fb76734a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ProjectX\serious\gravitydefied2\app\libs\acra-4.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="C:\ProjectX\serious\gravitydefied2\app\build\intermediates\transforms\dex\debug\folders\1000\2\acra-4.5.0_4be5e393f15019b2ed4ff4505bfae925fec0f44b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ProjectX\serious\gravitydefied2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da42e1a9e40300766615ab8380c2d6ee825d10bd">
+        <dex dex="C:\ProjectX\serious\gravitydefied2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06e8524bb1678e068c998a4272998e3f42e4309d\classes.dex" />
+    </item>
+
+</items>

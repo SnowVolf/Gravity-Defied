@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_r.xml",
+        "source": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\drawable\\btn_r.xml"
+    },
+    {
+        "merged": "C:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_br.xml",
+        "source": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\drawable\\btn_br.xml"
+    },
+    {
+        "merged": "C:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sort.xml",
+        "source": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "C:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_b.xml",
+        "source": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\drawable\\btn_b.xml"
+    },
+    {
+        "merged": "C:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu.xml",
+        "source": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_n.xml",
+        "source": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\drawable\\btn_n.xml"
+    },
+    {
+        "merged": "C:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_color.xml",
+        "source": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\drawable\\menu_item_color.xml"
+    }
+]

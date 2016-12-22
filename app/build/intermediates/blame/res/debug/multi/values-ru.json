@@ -1,0 +1,1560 @@
+[
+    {
+        "outputFile": "C:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endLine": 16,
+                    "endColumn": 19,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endLine": 37,
+                    "endColumn": 19,
+                    "endOffset": 1086
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1091,
+                    "endColumn": 39,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 48,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 40,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endLine": 49,
+                    "endColumn": 11,
+                    "endOffset": 1572
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1577,
+                    "endColumn": 53,
+                    "endOffset": 1626
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1631,
+                    "endColumn": 42,
+                    "endOffset": 1669
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1674,
+                    "endColumn": 92,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 84,
+                    "endOffset": 1847
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1852,
+                    "endColumn": 51,
+                    "endOffset": 1899
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1904,
+                    "endColumn": 86,
+                    "endOffset": 1986
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1991,
+                    "endColumn": 38,
+                    "endOffset": 2025
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2030,
+                    "endColumn": 51,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endColumn": 41,
+                    "endOffset": 2119
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2124,
+                    "endColumn": 63,
+                    "endOffset": 2183
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2188,
+                    "endColumn": 43,
+                    "endOffset": 2227
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2232,
+                    "endColumn": 86,
+                    "endOffset": 2314
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2319,
+                    "endColumn": 105,
+                    "endOffset": 2420
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2425,
+                    "endColumn": 61,
+                    "endOffset": 2482
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2487,
+                    "endColumn": 59,
+                    "endOffset": 2542
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2547,
+                    "endColumn": 97,
+                    "endOffset": 2640
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2645,
+                    "endColumn": 44,
+                    "endOffset": 2685
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2690,
+                    "endColumn": 42,
+                    "endOffset": 2728
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2733,
+                    "endColumn": 56,
+                    "endOffset": 2785
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2790,
+                    "endColumn": 135,
+                    "endOffset": 2921
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2926,
+                    "endColumn": 47,
+                    "endOffset": 2969
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2974,
+                    "endColumn": 73,
+                    "endOffset": 3043
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3048,
+                    "endColumn": 95,
+                    "endOffset": 3139
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endColumn": 57,
+                    "endOffset": 3197
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3202,
+                    "endColumn": 59,
+                    "endOffset": 3257
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3262,
+                    "endColumn": 49,
+                    "endOffset": 3307
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3312,
+                    "endColumn": 55,
+                    "endOffset": 3363
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3368,
+                    "endColumn": 79,
+                    "endOffset": 3443
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3448,
+                    "endColumn": 85,
+                    "endOffset": 3529
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3534,
+                    "endColumn": 96,
+                    "endOffset": 3626
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3631,
+                    "endColumn": 117,
+                    "endOffset": 3744
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3749,
+                    "endColumn": 74,
+                    "endOffset": 3819
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3824,
+                    "endColumn": 67,
+                    "endOffset": 3887
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3892,
+                    "endColumn": 42,
+                    "endOffset": 3930
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3935,
+                    "endColumn": 69,
+                    "endOffset": 4000
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4005,
+                    "endColumn": 63,
+                    "endOffset": 4064
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4069,
+                    "endColumn": 49,
+                    "endOffset": 4114
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4119,
+                    "endColumn": 136,
+                    "endOffset": 4251
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4256,
+                    "endColumn": 79,
+                    "endOffset": 4331
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4336,
+                    "endColumn": 40,
+                    "endOffset": 4372
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4377,
+                    "endColumn": 38,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endColumn": 43,
+                    "endOffset": 4455
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4460,
+                    "endColumn": 43,
+                    "endOffset": 4499
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4504,
+                    "endColumn": 49,
+                    "endOffset": 4549
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4554,
+                    "endColumn": 51,
+                    "endOffset": 4601
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4606,
+                    "endColumn": 39,
+                    "endOffset": 4641
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4646,
+                    "endColumn": 374,
+                    "endOffset": 5016
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5021,
+                    "endColumn": 46,
+                    "endOffset": 5063
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5068,
+                    "endColumn": 41,
+                    "endOffset": 5105
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5110,
+                    "endColumn": 38,
+                    "endOffset": 5144
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5149,
+                    "endColumn": 46,
+                    "endOffset": 5191
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5196,
+                    "endColumn": 58,
+                    "endOffset": 5250
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5255,
+                    "endColumn": 61,
+                    "endOffset": 5312
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5317,
+                    "endColumn": 49,
+                    "endOffset": 5362
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5367,
+                    "endColumn": 87,
+                    "endOffset": 5450
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5455,
+                    "endColumn": 57,
+                    "endOffset": 5508
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5513,
+                    "endColumn": 92,
+                    "endOffset": 5601
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5606,
+                    "endColumn": 51,
+                    "endOffset": 5653
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5658,
+                    "endColumn": 58,
+                    "endOffset": 5712
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1847,
+                        "endColumn": 58,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5717,
+                    "endColumn": 39,
+                    "endOffset": 5752
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3363,
+                        "endColumn": 39,
+                        "endOffset": 3398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 5757,
+                    "endLine": 117,
+                    "endColumn": 10,
+                    "endOffset": 6242
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 6247,
+                    "endColumn": 40,
+                    "endOffset": 6283
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 6288,
+                    "endColumn": 64,
+                    "endOffset": 6348
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 6353,
+                    "endColumn": 81,
+                    "endOffset": 6430
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 6828,
+                        "endColumn": 81,
+                        "endOffset": 6905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 6435,
+                    "endColumn": 41,
+                    "endOffset": 6472
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6477,
+                    "endColumn": 84,
+                    "endOffset": 6557
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 6911,
+                        "endColumn": 84,
+                        "endOffset": 6991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6562,
+                    "endColumn": 91,
+                    "endOffset": 6649
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 6654,
+                    "endColumn": 61,
+                    "endOffset": 6711
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6716,
+                    "endColumn": 49,
+                    "endOffset": 6761
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 6766,
+                    "endColumn": 37,
+                    "endOffset": 6799
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 6804,
+                    "endColumn": 37,
+                    "endOffset": 6837
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6842,
+                    "endColumn": 36,
+                    "endOffset": 6874
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6879,
+                    "endColumn": 38,
+                    "endOffset": 6913
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6918,
+                    "endColumn": 34,
+                    "endOffset": 6948
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6953,
+                    "endColumn": 54,
+                    "endOffset": 7003
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 7008,
+                    "endColumn": 59,
+                    "endOffset": 7063
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 7068,
+                    "endColumn": 47,
+                    "endOffset": 7111
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 7116,
+                    "endColumn": 304,
+                    "endOffset": 7416
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 7421,
+                    "endColumn": 36,
+                    "endOffset": 7453
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 7458,
+                    "endColumn": 33,
+                    "endOffset": 7487
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 7492,
+                    "endColumn": 34,
+                    "endOffset": 7522
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 7527,
+                    "endColumn": 39,
+                    "endOffset": 7562
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 7567,
+                    "endColumn": 64,
+                    "endOffset": 7627
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 7632,
+                    "endColumn": 41,
+                    "endOffset": 7669
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7674,
+                    "endLine": 176,
+                    "endColumn": 10,
+                    "endOffset": 9227
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 9232,
+                    "endColumn": 51,
+                    "endOffset": 9279
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 9284,
+                    "endColumn": 39,
+                    "endOffset": 9319
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 9324,
+                    "endColumn": 47,
+                    "endOffset": 9367
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 9372,
+                    "endColumn": 64,
+                    "endOffset": 9432
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 9437,
+                    "endLine": 186,
+                    "endColumn": 10,
+                    "endOffset": 9693
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 9698,
+                    "endColumn": 39,
+                    "endOffset": 9733
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 9738,
+                    "endColumn": 83,
+                    "endOffset": 9817
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 9822,
+                    "endColumn": 191,
+                    "endOffset": 10009
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 10014,
+                    "endColumn": 74,
+                    "endOffset": 10084
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 10089,
+                    "endColumn": 43,
+                    "endOffset": 10128
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 10133,
+                    "endColumn": 73,
+                    "endOffset": 10202
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 10207,
+                    "endColumn": 46,
+                    "endOffset": 10249
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 10254,
+                    "endColumn": 47,
+                    "endOffset": 10297
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 10302,
+                    "endColumn": 43,
+                    "endOffset": 10341
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 10346,
+                    "endColumn": 44,
+                    "endOffset": 10386
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 10391,
+                    "endColumn": 39,
+                    "endOffset": 10426
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 10431,
+                    "endColumn": 43,
+                    "endOffset": 10470
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 10475,
+                    "endColumn": 81,
+                    "endOffset": 10552
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 10557,
+                    "endColumn": 38,
+                    "endOffset": 10591
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 10596,
+                    "endColumn": 40,
+                    "endOffset": 10632
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 10637,
+                    "endColumn": 100,
+                    "endOffset": 10733
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 10738,
+                    "endColumn": 86,
+                    "endOffset": 10820
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 10825,
+                    "endColumn": 72,
+                    "endOffset": 10893
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 10898,
+                    "endColumn": 51,
+                    "endOffset": 10945
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3874,
+                        "endColumn": 51,
+                        "endOffset": 3921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 10950,
+                    "endColumn": 220,
+                    "endOffset": 11166
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 11171,
+                    "endColumn": 65,
+                    "endOffset": 11232
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 65,
+                        "endOffset": 1841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 11237,
+                    "endColumn": 79,
+                    "endOffset": 11312
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 11317,
+                    "endColumn": 44,
+                    "endOffset": 11357
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 11362,
+                    "endColumn": 34,
+                    "endOffset": 11392
+                },
+                "from": {
+                    "file": "C:\\ProjectX\\serious\\gravitydefied2\\app\\src\\main\\res\\values-ru\\strings.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.1"
+    useLibrary 'org.apache.http.legacy'//иначе будут ошибки в API.java
+
+    defaultConfig {
+        applicationId "org.happysanta.gd"
+        minSdkVersion 8
+        targetSdkVersion 25
+        versionCode 20161223
+        versionName "2.0.20161223"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/acra-4.5.0.jar')
+   // compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.2'
+}

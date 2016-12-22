@@ -1,0 +1,7 @@
+#Thu Dec 22 21:53:31 GMT+07:00 2016
+base.0=C\:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_06e8524bb1678e068c998a4272998e3f42e4309d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0692e3a3e8d35061bae5897e98213df8fb76734a\\classes.dex
+base.1=C\:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0692e3a3e8d35061bae5897e98213df8fb76734a
+file.0=C\:\\ProjectX\\serious\\gravitydefied2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_06e8524bb1678e068c998a4272998e3f42e4309d\\classes.dex
